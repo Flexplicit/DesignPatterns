@@ -1,0 +1,16 @@
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\bin\Debug\net5.0\Factory.exe
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\bin\Debug\net5.0\Factory.deps.json
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\bin\Debug\net5.0\Factory.runtimeconfig.json
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\bin\Debug\net5.0\Factory.runtimeconfig.dev.json
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\bin\Debug\net5.0\Factory.dll
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\bin\Debug\net5.0\ref\Factory.dll
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\bin\Debug\net5.0\Factory.pdb
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\obj\Debug\net5.0\Factory.csproj.AssemblyReference.cache
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\obj\Debug\net5.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\obj\Debug\net5.0\Factory.AssemblyInfoInputs.cache
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\obj\Debug\net5.0\Factory.AssemblyInfo.cs
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\obj\Debug\net5.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\obj\Debug\net5.0\Factory.dll
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\obj\Debug\net5.0\ref\Factory.dll
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\obj\Debug\net5.0\Factory.pdb
+C:\Users\renes\Desktop\C# Learning\Patterns\Design Patterns\Factory\obj\Debug\net5.0\Factory.genruntimeconfig.cache
